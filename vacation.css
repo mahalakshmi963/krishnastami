@@ -1,0 +1,162 @@
+.img{
+    /* background-image: url(back\ ground\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: contain; */
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     width: 45%;
+     text-align: center;
+     border-radius: 50px;
+     color: aliceblue;
+     margin-left: 250px;
+
+}
+.map{
+    display: flex;
+}
+.pic{
+    margin-left: 200px;
+}
+
+.sem{
+    border: 1px solid;
+    width: 5%;
+    border-radius: 50%;
+    text-align: center;
+    background-color:orangered;
+    color:white;
+    margin-left: 10px;
+}
+h2{
+    color:wheat;
+    margin-left: 130px;
+}
+.ram{
+    display: flex;
+    margin-bottom: 200px;
+}
+.sam{
+    display:flex;
+}
+.sre{
+    font-size: 20px;
+    margin-left: 100px;
+    color: whitesmoke;
+}
+.main{
+    border: 1px solid;
+    width: 50%;
+    height: 10%;
+    margin-left: 400px;
+    
+}
+.krish{
+    background-color: gold;
+    background-size: cover;
+    height: 350px;
+    margin-top: -28px;
+    background: linear-gradient(to right,rgba(rgba(255, 166, 0, 0.74)),rgba(201, 201, 7, 0.527),rgba(255, 166, 0, 0.842));
+}
+.but{
+width: 40%;
+margin-left: 100px;
+background-color: blue;
+color: aliceblue;
+    
+
+}
+div p{
+    font-size: 10px;
+    margin-left: 270px;
+}
+.date{
+    font-size: 12px;
+    margin-right: 470px;
+}
+b{
+    margin-left: 70px;
+    margin-top: -50px;
+}
+.tdt{
+    display: flex;
+    font-size: 10px;
+    justify-content: space-between;
+    margin-top: -20px;
+    background-image: url(pamplate.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.neet{
+    background-color: darkblue;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    margin-top: -10px;
+}
+.mani{
+    font-size: 9px;
+    margin-top: -10px;
+    border: 1px solid;
+    border-radius: 0 0 15px 15px;
+    border-color: seagreen;
+    padding-left: 40px;
+    transform: scale(1.5%);
+
+
+}
+.bag, .bage{
+    display: flex;
+    border: 1px solid;
+    width: fit-content;
+   margin-left: 2%;
+   background-color:rgba(0, 0, 128, 0.849);
+   /* display: flex; */
+   border-radius: 20%;
+}
+.bag div h4, .bage div h4{
+    font-size:0.8ic;
+    margin-left: 4mm;
+}
+.bag img,.bage img{
+    margin-top: 1.5ic;
+    height: 5.5ic;
+    margin-left: 10%;
+}
+
+.sri{
+   
+    display: flex;
+
+}
+.side{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.final{
+    
+    border: 1px solid;
+    height: 40%;
+ border-radius: 20%;
+   
+}
+.final,strong,small{
+    margin-left: 5%;
+}
+.final,strong,small,b{
+    margin-top: -3%;
+}
+.bage{
+    margin-left: -1%;
+}
+
+
+
+
+
+
+
+
+
+    
